@@ -109,13 +109,13 @@ ${data.description}
 
 ## Table of Contents
 
-1. [Description](## Description)
-1. [Installation](## Installation)
-1. [Usage](## Usage)
-1. [Contribution](## Contribution)
-1. [Tests](## Tests)
-1. [Questions](## Questions)
-1. [License](## License)
+1. [Description](#Description)
+1. [Installation](#Installation)
+1. [Usage](#Usage)
+1. [Contribution](#Contribution)
+1. [Tests](#Tests)
+1. [Questions](#Questions)
+1. [License](#License)
 
 ## Installation
 
