@@ -4,6 +4,8 @@
     
 A simple node.js CLI application to generate a professional README file.
 
+See example at [example video](https://drive.google.com/file/d/10Gn3p2CkdZ0hXVtAdRx0hptV6l1mzROZ/view).
+
 ## Table of Contents
 
 1. [Description](#Description)
